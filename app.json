@@ -1,5 +1,5 @@
 {
-    "name": "Save restricted content bot",
+    "name": "yo boy save restrictions",
     "description": "Telegram bot to save restricted content.",
     "logo": "",
     "keywords": [
@@ -7,29 +7,29 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/codewithyo/SRCBYO",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/codewithyobot",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "1b67159ec6b7d40313ee851dd76fdb16"
+            "value": "f2debf49c2f57bad88086ecd17cb5df3"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "28575202"
+            "value": "23634056"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "7113823174:AAH55e4S7cNarVuHBFsxhlwxKAw8diF51cw"
+            "value": "6851300796:AAEmJgQWC2NmHKRn5JgtC0dUwhAX4xSd6qI"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": "BQCkO_aTe4EypiWXkkp9PwLxw0iLOe8uaTVqN8_V6OaIxBFxYgty48dqKrqTVGlLFdWc6uI735k6simj_Zei7n5zBfcP7BJu2ab2rJ2OMii4GLfx4puGlaBN3iY6_IPasRqlpIP12G0N9Ar8nOM8B0r2dJR_ErAWZrndxve-p2gAyKCUTxYH49BtOwummvWwoOO8eLURhfz0sWWp4vqbmx9knV-DBXSb23tWFQAe137HFGTQJScVEkPfKyvzPHQmGYnappcOFFv8Q92Nukji4JrxRQ3BQHj9UR5QBKi6Ym_bxtaG-qbnheX7cM8H2ApwGe7MKsfJJ05LbHyjb_VHpTE7AAAAAZMqZxQA"
+            "value": "BQBV6oI_7afKBS0pXgXVNl1ZPg2hGpswMZLYMlb_TRMgiDcIkl74c9EaL2HK7k9EY94QcUSfVaHbLUidtYK7M2bTn19kcPQllEMWZpqY3NieVxy-p-4FannUjL9RQnnOec7gdvo-D7adcpX8NHFZ0okVB_w7ee_LFDOtZ5zrq-0-HTIcdxrJ4RVDyIAzGul2EcCHFqbi6Ln7bknPAewhJYYE941wz9Bb4nW2hPEDHYThKX1YY8s_6Iqm29A0xd4zyZM8mZ2vQCywhw5eJw3AraRcstSsNh5Kt44McW-uOzZec_AOJXhIg_GSJEZI0eiuaOJ1SIa_KbC29YhqVGCCUb3XAAAAAS7sVtgA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "6763996948"
+            "value": "5082207960"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
